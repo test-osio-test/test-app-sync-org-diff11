@@ -12,9 +12,6 @@ To run this booster on your local host:
 ----
 $ git clone git@github.com:piyush1594/test-app-sync-org-diff11
 
-$ cd test-app-sync-org-diff11
-
-$ mvn compile vertx:run
 ----
 
 == Interacting with the Booster Locally
